@@ -1,7 +1,7 @@
 {
   "name": "questions",
   "version": "0.1.0",
-  "homepage": "https://github.com/AhmedelheGery/Find_Users_App.git",
+  "homepage": "https://AhmedelheGery.github.io/Find_Users_App",
   "private": true,
   "dependencies": {
     "auth0-js": "^9.11.3",
